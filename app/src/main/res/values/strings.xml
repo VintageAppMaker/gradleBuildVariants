@@ -1,0 +1,5 @@
+<resources>
+<!--    <string name="app_name">gradleBuildVariants</string>-->
+    <string name="app_name_dev">gradleBuildVariants - dev</string>
+    <string name="app_name_product">gradleBuildVariants - product</string>
+</resources>
