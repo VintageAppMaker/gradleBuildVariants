@@ -44,7 +44,7 @@
 - Android Studio 3.0이후에는 flavorDimensions 정의를 반드시 추가해야 한다. 그리고 productFlavors 항목안에 dimension으로 선언해야 한다.
 - 기본적으로 android {} 안의 값을 대부분 재정의 가능하다.
   - applicationId는 패키지명이다. 때에 따라 패키지명을 바꾸어야 할 경우, 정의하면 된다.
-  - resValue는 리소스를 정의할 때 사용된다. 리소스이름_variant.name 형태로 지정한다. **반드시 리소스이름 단독으로된 파일은 없어야 한다.**
+  - resValue는 리소스를 정의할 때 사용된다. 리소스이름_variant.name 형태로 지정한다. **반드시 리소스이름 단독으로된 파일은 없어야 한다.** 아래의 app_name은 삭제해야 한다.
 
 ![](1.jpg)
 
